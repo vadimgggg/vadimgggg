@@ -30,8 +30,6 @@
 		}
 
 	</style>
-</head>
-<body>
 	<div class="info_table">
 		<ul>
 			<li>LinkedIn</li>
@@ -39,4 +37,3 @@
 			<li>Twitter</li>
 		</ul>
 	</div>
-</body>
