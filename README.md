@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="info_table.svg" width="100%" height="100%" alt="info_table">
+	<img src="info_table.svg" width="800" height="400" alt="info_table">
 </div>
 
 > Programming languages:
