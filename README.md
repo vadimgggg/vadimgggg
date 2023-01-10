@@ -2,7 +2,10 @@
 	<img src="info_table.svg" width="100%" height="100%" alt="info_table">
 </div>
 
-## My skills:
+## ☄️ Short info:
+I am Junior Penetration Tester.
+
+## ⚡️ My programming skills:
 - Python
 - C++
 - C#
@@ -11,5 +14,5 @@
 - CSS
 - JS
 
-## Contact:
+## 📞 Contact:
 [LinkedIn](https://www.linkedin.com/in/vadym-bilovus-471b78254/)
