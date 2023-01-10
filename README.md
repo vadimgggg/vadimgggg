@@ -14,5 +14,5 @@ I am Junior Penetration Tester.
 - CSS
 - JS
 
-## 📞 Contact:
+## 📱 Contact:
 [LinkedIn](https://www.linkedin.com/in/vadym-bilovus-471b78254/)
