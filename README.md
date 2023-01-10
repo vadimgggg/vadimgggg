@@ -1,8 +1,8 @@
 <div align="center">
-	<img src="info_table.svg" width="800" height="400" alt="info_table">
+	<img src="info_table.svg" width="100%" height="100%" alt="info_table">
 </div>
 
-> Programming languages:
+## My skills:
 - Python
 - C++
 - C#
@@ -11,5 +11,5 @@
 - CSS
 - JS
 
-> Contact:
-- LinkedIn
+## Contact:
+[LinkedIn](https://www.linkedin.com/in/vadym-bilovus-471b78254/)
