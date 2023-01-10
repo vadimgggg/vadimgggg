@@ -2,7 +2,7 @@
 	<img src="info_table.svg" width="100%" height="100%" alt="info_table">
 </div>
 
-## Programming languages:
+> Programming languages:
 - Python
 - C++
 - C#
@@ -11,6 +11,5 @@
 - CSS
 - JS
 
-## Contact:
+> Contact:
 - LinkedIn
-- 
