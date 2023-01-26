@@ -1,3 +1,4 @@
+# 😃 HI! My name is Vadym Bilovus!
 <div align="center">
 	<img src="info_table.svg" width="100%" height="100%" alt="info_table">
 </div>
