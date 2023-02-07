@@ -2,7 +2,7 @@
 <img src="logo.jpg" alt="There must be logo">
 
 ## ☄️ Short info:
-I am Junior Penetration Tester.
+I am Penetration Tester.
 
 ## ⚡️ My programming skills:
 - Python
