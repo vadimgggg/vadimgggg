@@ -1,8 +1,8 @@
 # 😃 HI! My name is Vadym Bilovus!
-<img src="logo.jpg" alt="There must be logo">
+<img src="github_logo.jpg" alt="There must be logo">
 
 ## ☄️ Short info:
-I am Penetration Tester.
+I am Penetration Tester
 
 ## ⚡️ My programming skills:
 - Python
