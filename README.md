@@ -1,4 +1,4 @@
-# 😃 HI! My name is Vadym Bilovus!
+# 😃 HI! My name is Vadym!
 <img src="github_logo.jpg" alt="There must be logo">
 
 ## ☄️ Short info:
